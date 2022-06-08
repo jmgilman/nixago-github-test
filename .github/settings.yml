@@ -1,0 +1,5 @@
+repository:
+  description: A test repository for demonstrating Nixago
+  homepage: https://github.com/jmgilman/nixago-github-test
+  name: nixago-github-test
+  topics: nix, cue
